@@ -1,4 +1,4 @@
 Transport
-HTML 60.3%
-CSS 37.6%
-JS 2.1%
+HTML 48.1%
+CSS 47.6%
+JS 4.3%
